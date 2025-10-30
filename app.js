@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+require('dotenv').config();
+>>>>>>> 01c707c0100db4961bab444a76c63882faf7dd33
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
